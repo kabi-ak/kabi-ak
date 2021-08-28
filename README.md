@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **c#**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1sicfz8gY0YHRT0KkGH98VxdwArbpriBq?usp=sharing](https://drive.google.com/drive/folders/1sicfz8gY0YHRT0KkGH98VxdwArbpriBq?usp=sharing)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
